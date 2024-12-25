@@ -8,16 +8,16 @@ Taurus nghĩa là Kim Ngưu cũng là cung hoàng đạo của Anh Tester 😁
 App mobile này Anh Tester đang phát triển thêm cho đầy đủ các tính năng cũng như đa dạng các component trên giao diện Mobile cho cả Android và iOS.
 
 
-### Flow business
+### ✳️Flow business
 * Add product
 * Add table
 * Order product for table > Payment > Check wallet
 * Check logs in calendar
 
-### Login
+### ✳️Login
 - Username: admin
 - Password: admin
 
 
-### Các app mobile khác
+### 🔆Các app mobile khác
 https://github.com/anhtester/mobile-app-demo
