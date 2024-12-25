@@ -1,0 +1,7 @@
+v1.0.0
+======
+25/12/2025
+* Component: DateTime, Dropdown, Input, Button, Scroll
+            Alert, Webview.
+* Flow business: Add product > Add table 
+            > Order product > Payment > Check wallet
