@@ -12,3 +12,7 @@ App mobile này Anh Tester đang phát triển thêm cho đầy đủ các tính
 * Add product > Add table
 * Order product for table > Payment > Check wallet
 * Check logs in calendar
+
+### Login
+- Username: admin
+- Password: admin
