@@ -9,7 +9,8 @@ App mobile này Anh Tester đang phát triển thêm cho đầy đủ các tính
 
 
 ### Flow business
-* Add product > Add table
+* Add product
+* Add table
 * Order product for table > Payment > Check wallet
 * Check logs in calendar
 
@@ -18,5 +19,5 @@ App mobile này Anh Tester đang phát triển thêm cho đầy đủ các tính
 - Password: admin
 
 
-#### Các app mobile khác
+### Các app mobile khác
 https://github.com/anhtester/mobile-app-demo
